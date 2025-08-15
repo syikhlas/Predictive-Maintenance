@@ -6,7 +6,7 @@ My solo project using machine learning to predict equipment failures. Includes S
 ### Setup
 
 1. Install dependencies: `pip install -r requirements.txt`
-2. Run Jupyter: `jupyter notebook` (or use run.bat on Windows)
+2. Run Jupyter: `jupyter notebook` 
 
 ### Dataset
 

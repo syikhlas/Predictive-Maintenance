@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+keras
+tensorflow
+h5py
+protobuf
+scikit-learn
+jupyter
+jupyter-client
+jupyter-console
+jupyter-core
+jupyterlab-widgets
+seaborn
+ipython
+ipython-genutils==0.2.0
+ipykernel
